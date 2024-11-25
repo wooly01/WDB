@@ -1,0 +1,22 @@
+/* * {
+  background-color: aqua;
+} */
+
+body {
+  background-color: #f1faee;
+}
+
+button {
+  font-size: 30px;
+  background-color: #a8dadc;
+}
+
+h1,
+h2 {
+  color: #1d3557;
+}
+
+#singup {
+  color: #f1faee;
+  background-color: #1d3557;
+}
