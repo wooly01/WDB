@@ -32,6 +32,8 @@ span {
 }
 .post a {
   color: #457b9d;
+  text-decoration: none;
+  font-weight: 700px;
 }
 
 footer a {
@@ -51,5 +53,18 @@ input[type='password'] {
 }
 
 a[href*='google'] {
+  background-color: aqua;
+}
+
+.post button:hover {
+  background-color: #e63946;
+  color: #f1faee;
+}
+
+.post:hover {
+  text-decoration: underline;
+}
+
+.post button:active {
   background-color: aqua;
 }
